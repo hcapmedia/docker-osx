@@ -1060,11 +1060,11 @@
             <key>PollAppleHotKeys</key>
             <true/>
             <key>ShowPicker</key>
-            <false/>
+            <true/>
             <key>TakeoffDelay</key>
             <integer>0</integer>
             <key>Timeout</key>
-            <integer>7</integer>
+            <integer>15</integer>
         </dict>
         <key>Debug</key>
         <dict>
